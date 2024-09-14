@@ -103,6 +103,7 @@
     width: 100%;
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .sobre-img {
@@ -118,6 +119,7 @@
     display: inline-block;
     vertical-align: top;
     padding-left: 20px;
+    width: 50%;
 }
 
 .sobre-txt h2{
